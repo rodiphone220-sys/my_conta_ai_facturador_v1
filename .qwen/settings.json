@@ -17,7 +17,9 @@
       "Bash(ollama *)",
       "Bash(cd *)",
       "Bash(setx *)",
-      "Bash(cmd *)"
+      "Bash(cmd *)",
+      "Bash(powershell *)",
+      "Bash(git add *)"
     ]
   },
   "$version": 3
